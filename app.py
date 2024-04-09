@@ -4,7 +4,7 @@ from PIL import Image #Image Processing
 import numpy as np #Image Processing 
 
 #title
-st.title("Easy OCR - Extract Text from Images")
+st.title("Easy OCR - Extract Text from Images- hi hi")
 
 #subtitle
 st.markdown("## Optical Character Recognition - Using `easyocr`, `streamlit` -  hosted on 🤗 Spaces")
